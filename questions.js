@@ -20,7 +20,7 @@ questions =  [
     {"id": 18, "question": "It is important to protect the Jewish nature of the State of Israel.", "effects": {"auth": 1}},
     {"id": 19, "question": "The Land of Israel belongs exclusively to the Jewish people.", "effects": {"auth": 1}},
     {"id": 20, "question": "Jews should not marry Arabs and non-Jews in general.", "effects": {"auth": 1}},
-    {"id": 21, "question": "Jewish kids should to study Arabic in school.", "effects": {"auth": 1}},
+    {"id": 21, "question": "Jewish kids don't need to study Arabic in school.", "effects": {"auth": 1}},
     {"id": 22, "question": "Arab and Jewish children should study separately.", "effects": {"auth": 1}},
     {"id": 23, "question": "The Israeli government committed a \"cultural genocide\" of Arab Jews.", "effects": {"auth": -1}},
     {"id": 24, "question": "Israel should be a state of all its citizens.", "effects": {"auth": -1}},
